@@ -131,7 +131,7 @@ plt.xticks(rotation=90)
 plt.legend()
 
 # Show the chart
-plt.show()
+plt.show()l
 
 
 
